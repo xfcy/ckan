@@ -19,11 +19,6 @@
         }
     ],
     "download": "https://github.com/xfcy/ckan-package/blob/master/MechJeb2CN/MechJeb2-2.8.4-releases-zh_CN-190619.zip",
-    "download_size": 3464453,
-    "download_hash": {
-        "sha1": "DBEDC8FF913F38DEB04B5E9EF3A15C511770A751",
-        "sha256": "FB473D2B470F8017834B5A3FB451F703CEA77EE64461A1AAEBB8C1FB4EC4C30B"
-    },
     "download_content_type": "application/zip",
     "x_generated_by": "netkan"
 }
