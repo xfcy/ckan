@@ -18,7 +18,7 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://github.com/xfcy/ckan/blob/master/MechJeb2CN/package/MechJeb2-2.8.4-releases-zh_CN-190619.zip",
+    "download": "https://github.com/xfcy/ckan-package/blob/master/MechJeb2CN/MechJeb2-2.8.4-releases-zh_CN-190619.zip",
     "download_size": 3464453,
     "download_hash": {
         "sha1": "DBEDC8FF913F38DEB04B5E9EF3A15C511770A751",
